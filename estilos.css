@@ -1,0 +1,21 @@
+h1{
+    font-size: x-large;
+    font-family: serif;
+}
+h2{
+    font-size: xx-small;
+    font-family: serif;
+}
+header,section,footer,aside,nav,article{
+    border: 1px solid black;
+    display: block;
+}
+body{
+    text-align: center;
+}
+.agrupar{
+    background-color: blueviolet;
+    margin: 50px auto;
+    width: fit-content;
+    padding: 30px;
+}
